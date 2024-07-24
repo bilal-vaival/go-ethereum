@@ -20,13 +20,13 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/stateless"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/bilal-vaival/go-ethereum/common"
+	"github.com/bilal-vaival/go-ethereum/consensus"
+	"github.com/bilal-vaival/go-ethereum/core/state"
+	"github.com/bilal-vaival/go-ethereum/core/stateless"
+	"github.com/bilal-vaival/go-ethereum/core/types"
+	"github.com/bilal-vaival/go-ethereum/params"
+	"github.com/bilal-vaival/go-ethereum/trie"
 )
 
 // BlockValidator is responsible for validating block headers, uncles and

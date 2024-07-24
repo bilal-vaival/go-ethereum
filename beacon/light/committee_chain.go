@@ -23,14 +23,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/beacon/params"
-	"github.com/ethereum/go-ethereum/beacon/types"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/lru"
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/bilal-vaival/go-ethereum/beacon/params"
+	"github.com/bilal-vaival/go-ethereum/beacon/types"
+	"github.com/bilal-vaival/go-ethereum/common"
+	"github.com/bilal-vaival/go-ethereum/common/lru"
+	"github.com/bilal-vaival/go-ethereum/common/mclock"
+	"github.com/bilal-vaival/go-ethereum/core/rawdb"
+	"github.com/bilal-vaival/go-ethereum/ethdb"
+	"github.com/bilal-vaival/go-ethereum/log"
 )
 
 var (

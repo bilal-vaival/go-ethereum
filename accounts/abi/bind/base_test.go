@@ -24,14 +24,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/bilal-vaival/go-ethereum"
+	"github.com/bilal-vaival/go-ethereum/accounts/abi"
+	"github.com/bilal-vaival/go-ethereum/accounts/abi/bind"
+	"github.com/bilal-vaival/go-ethereum/common"
+	"github.com/bilal-vaival/go-ethereum/common/hexutil"
+	"github.com/bilal-vaival/go-ethereum/core/types"
+	"github.com/bilal-vaival/go-ethereum/crypto"
+	"github.com/bilal-vaival/go-ethereum/rlp"
 	"github.com/stretchr/testify/assert"
 )
 

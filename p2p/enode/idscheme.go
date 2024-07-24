@@ -21,10 +21,10 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/bilal-vaival/go-ethereum/common/math"
+	"github.com/bilal-vaival/go-ethereum/crypto"
+	"github.com/bilal-vaival/go-ethereum/p2p/enr"
+	"github.com/bilal-vaival/go-ethereum/rlp"
 	"golang.org/x/crypto/sha3"
 )
 

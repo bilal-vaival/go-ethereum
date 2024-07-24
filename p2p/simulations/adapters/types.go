@@ -26,14 +26,14 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/internal/reexec"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/bilal-vaival/go-ethereum/crypto"
+	"github.com/bilal-vaival/go-ethereum/internal/reexec"
+	"github.com/bilal-vaival/go-ethereum/log"
+	"github.com/bilal-vaival/go-ethereum/node"
+	"github.com/bilal-vaival/go-ethereum/p2p"
+	"github.com/bilal-vaival/go-ethereum/p2p/enode"
+	"github.com/bilal-vaival/go-ethereum/p2p/enr"
+	"github.com/bilal-vaival/go-ethereum/rpc"
 	"github.com/gorilla/websocket"
 )
 

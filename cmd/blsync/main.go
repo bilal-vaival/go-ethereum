@@ -21,13 +21,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ethereum/go-ethereum/beacon/blsync"
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/internal/debug"
-	"github.com/ethereum/go-ethereum/internal/flags"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/bilal-vaival/go-ethereum/beacon/blsync"
+	"github.com/bilal-vaival/go-ethereum/cmd/utils"
+	"github.com/bilal-vaival/go-ethereum/internal/debug"
+	"github.com/bilal-vaival/go-ethereum/internal/flags"
+	"github.com/bilal-vaival/go-ethereum/log"
+	"github.com/bilal-vaival/go-ethereum/node"
+	"github.com/bilal-vaival/go-ethereum/rpc"
 	"github.com/urfave/cli/v2"
 )
 

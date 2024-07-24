@@ -30,12 +30,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/p2p/discover/v5wire"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/enr"
-	"github.com/ethereum/go-ethereum/p2p/netutil"
+	"github.com/bilal-vaival/go-ethereum/common/mclock"
+	"github.com/bilal-vaival/go-ethereum/log"
+	"github.com/bilal-vaival/go-ethereum/p2p/discover/v5wire"
+	"github.com/bilal-vaival/go-ethereum/p2p/enode"
+	"github.com/bilal-vaival/go-ethereum/p2p/enr"
+	"github.com/bilal-vaival/go-ethereum/p2p/netutil"
 )
 
 const (
